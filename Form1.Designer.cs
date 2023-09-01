@@ -66,9 +66,9 @@ namespace Videos_descargadoss
             this.lblSeleccione.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSeleccione.Location = new System.Drawing.Point(0, 9);
             this.lblSeleccione.Name = "lblSeleccione";
-            this.lblSeleccione.Size = new System.Drawing.Size(111, 15);
+            this.lblSeleccione.Size = new System.Drawing.Size(114, 15);
             this.lblSeleccione.TabIndex = 2;
-            this.lblSeleccione.Text = "Seleccione el video";
+            this.lblSeleccione.Text = "Seleccione el video:";
             // 
             // frmReproductor
             // 
